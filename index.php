@@ -12,5 +12,7 @@
         <li>Satu</li>
         <li>Dua</li>
     </ul>
+
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente sint non autem, voluptatem nobis totam? Quos, nihil in recusandae qui natus voluptates suscipit omnis culpa error doloribus velit consectetur cupiditate?</p>
 </body>
 </html>
